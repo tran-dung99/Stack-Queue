@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffc93e92-f4fb-46ce-abb6-02c8565b7338" name="Changes" comment="" />
+    <list default="true" id="ffc93e92-f4fb-46ce-abb6-02c8565b7338" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/[Bài tập] Cài đặt cấu trúc Stack/Stack.php" beforeDir="false" afterPath="$PROJECT_DIR$/[Bài tập] Cài đặt cấu trúc Stack/Stack.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[Bài tập] Cài đặt cấu trúc Stack/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/[Bài tập] Cài đặt cấu trúc Stack/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +16,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="214jFSlrvyv6hPgw4744W1YSkE5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,11 +29,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/[Bài tập] Cài đặt cấu trúc Queue" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -37,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637207150254</updated>
-      <workItem from="1637207151286" duration="1165000" />
+      <workItem from="1637207151286" duration="1427000" />
     </task>
     <servers />
   </component>
